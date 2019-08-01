@@ -6,7 +6,7 @@ public class MergeTesting {
 		System.out.println("Merging is fun, when you know what you're doing");
 		System.out.println("Hello my name is Maurice");
 		System.out.println("Hello World");
-		System.out.println("My name is Antonella");
+		System.out.println("My name is Antonella -- this is still me");
 		System.out.println("Maurice added this line");
 	}
 
